@@ -1,16 +1,7 @@
-# Tonic-Userbot Telegram
-
-</p>
-<p align="center">
-    <a href="https://github.com/Tonic990/Tonic-User"> <img src="https://img.shields.io/github/repo-size/Tonic990/Tonic-Userbot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Tonic990/Tonic-User/commits"> <img src="https://img.shields.io/github/last-commit/Tonic990/Tonic-Userbot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Tonic990/Tonic-User/issues"> <img src="https://img.shields.io/github/issues/Tonic990/Tonic-Userbot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Tonic990/Tonic-User/network/members"> <img src="https://img.shields.io/github/forks/Tonic990/Tonic-Userbot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
+# 𝗭𝗜𝗫𝗘𝗡 𝗨𝗦𝗘𝗥𝗕𝗢𝗧​
 
 <p align="center">
-  <img src="https://telegra.ph/file/33193e0075fc37c000379.jpg">
+  <img src="https://telegra.ph/file/b289524c6476ddb9192c7.jpg">
 </p>
 
 ## <p align="center">DEPLOY TO HEROKU</p>
@@ -22,20 +13,6 @@
 
 ## Group Support:
 
-   <a href="https://t.me/PrimeSupportGroup"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/zixsupports"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
-## String Session :
-
-<a href="https://replit.com/@Tonic990/StringSession#main.py"><img src="https://img.shields.io/badge/run-string__session.py-magenta?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
-
-
-## Stay Support 🚀
-❁   [LonamiWebs](https://github.com/LonamiWebs/) and [Telethon](https://github.com/LonamiWebs/Telethon)
-
-
-# **THANKS YOU TO** ❤️
-*   [Sendi](https://github.com/SendiAp/Rose-Userbot)   Rose-Userbot
-*   [Risman](https://github.com/mrismanaziz/Man-Userbot)   Man - Userbot
-*   [Skyzu](https://github.com/Skyzu/skyzu-userbot)   skyzu paling ganteng
-*   DAN TERIMAKASIH KEPADA USERBOT LAINNYA
 
